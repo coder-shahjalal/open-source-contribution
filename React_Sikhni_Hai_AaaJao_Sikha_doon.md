@@ -124,6 +124,6 @@ Complete React Roadmap 🔥
         |-- React Community Events
         |-- Conferences
        └─ GitHub Repositories
-
+|-----Engage in online communities (e.g., GitHub, Stack Overflow)
 ------------------ END -------------------
 ```
